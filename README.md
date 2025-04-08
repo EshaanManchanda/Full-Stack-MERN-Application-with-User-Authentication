@@ -209,16 +209,12 @@ You can switch between the two designs using the link at the bottom of each logi
 
 ## Screenshots
 
-### Simple Login Page
-![Simple Login](./frontend/public/screenshots/Simple%20Login.png)
+### Login Page
+![Simple Login](./frontend/public/screenshots/Login.png)
 *The minimalist login page based on the Figma design*
 
-### Original Login Page
-![Original Login](./frontend/public/screenshots/Original%20Login.png)
-*The feature-rich login page with icons and animations*
-
 ### Registration Page
-![Registration](./frontend/public/screenshots/Registration.png)
+![Registration](./frontend/public/screenshots/Register.png)
 *The registration page for creating new accounts*
 
 ### Dashboard Page
